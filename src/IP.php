@@ -1,20 +1,5 @@
 <?php
-/*
- * =======================
- * IP - php file
- * =======================
- *       @copyright Nectus5, Inc - All Rights Reserved
- *       @license Unauthorized copying of this file, via any medium is strictly prohibited
- *       @ignore Proprietary and confidential
- *       @Author: Molchanov Alexey , alex@nectus5.com
- *       $Date: 2019-11-18 18:19:03Z $
- * --------
- * Summary:
- *
- *  Usage:
- *
- * -------
- */
+
 namespace IPTools;
 
 /**
